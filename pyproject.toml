@@ -1,0 +1,9 @@
+[project]
+name = "dynamic-neural-network-from-scratch"
+version = "0.1.0"
+description = "A dynamic feed-forward neural network implemented using the Python standard library"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.unittest]
+start-directory = "tests"
